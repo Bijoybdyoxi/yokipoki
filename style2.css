@@ -301,6 +301,7 @@ nav1 .logos{
 }
 
 .btn{
+    border: 1px solid #ffffff;
     display: block;
     height: 60px;
     width: 200px;
