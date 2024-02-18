@@ -36,7 +36,7 @@ body{
 nav{
     width: 100%;
     position: absolute;
-    top: 12%;
+    top: 10%;
     left: 45%;
     padding: 20px 8%;
     display: flex;
@@ -45,7 +45,7 @@ nav{
 }
 
 nav .logo{
-    width: 550px;
+    width: 500px;
     height: auto;
 }
 
