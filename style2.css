@@ -300,6 +300,12 @@ nav1 .logos{
     left: 42%;
 }
 
+.buttons{
+    position: absolute;
+    top: 10%;
+    left: 42%;
+}
+
 .btn{
     border: 1px solid #ffffff;
     display: block;
