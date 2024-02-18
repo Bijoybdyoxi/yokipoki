@@ -98,3 +98,19 @@ body{
     bottom: 0;
     z-index: -1;
 }
+
+nav{
+    width: 100%;
+    position: absolute;
+    top: 10%;
+    right: 0%;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav .logo{
+    width: 1200px;
+    height: auto;
+}
