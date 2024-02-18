@@ -102,7 +102,7 @@ body{
 nav{
     width: 100%;
     position: absolute;
-    top: 10%;
+    top: 50%;
     right: 0%;
     padding: 20px 8%;
     display: flex;
